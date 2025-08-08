@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.12.0
+sqlite3
+hashlib
+datetime
+random
+string
+re
+os
+threading
